@@ -55,6 +55,7 @@ fun_fact = "I am fluent in French."
 age = 32
 
 name = input("Enter profile name: ")
+hometown = input("Enter the hometown:")
 fun_fact = input("Enter one fun fact: ")
 hobby = input("Enter favorite hobby: ")
 birth_year = input("Enter their birth year: ")
@@ -71,4 +72,3 @@ print("╚═══════════════════════�
 print(f"Hometown:       {hometown}")
 print(f"Hobby:          {hobby}")
 print(f"Age:            {age}")
-
